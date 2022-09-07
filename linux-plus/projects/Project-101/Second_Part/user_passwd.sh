@@ -1,6 +1,8 @@
 #!/bin/bash
 #
-# Definition: You will be prompted to enter the username (login), the person name, and a password. The username, password, and host for the account will be displayed.
+# This script creates a new user on the local system.
+# You will be prompted to enter the username (login), the person name, and a password.
+# The username, password, and host for the account will be displayed.
 
 # Make sure the script is being executed with superuser privileges.
 
@@ -23,3 +25,4 @@
 # Force password change on first login.
 
 # Display the username, password, and the host where the user was created.
+
